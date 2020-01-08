@@ -6,7 +6,8 @@
 * Use `find()` to isolate a specific result
 
 ## Introduction
-
+I AM CHECKING FOR GIT COMMITS!
+I am not sure if it worked so I will be doing this again 
 In any programming language, you'll perform operations on arrays. Looking in
 an `Array` for a sub string or set of characters is a common task. Sometimes
 you need to look for a _specific_ item in the array, and return it. Given a
